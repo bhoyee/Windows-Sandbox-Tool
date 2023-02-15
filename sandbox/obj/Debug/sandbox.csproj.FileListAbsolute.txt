@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\corseWork\sandbox\sandbox\obj\Debug\sandbox.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\corseWork\sandbox\sandbox\obj\Debug\sandbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\corseWork\sandbox\sandbox\obj\Debug\sandbox.Form1.resources
+C:\Users\user\Desktop\corseWork\sandbox\sandbox\obj\Debug\sandbox.Properties.Resources.resources
+C:\Users\user\Desktop\corseWork\sandbox\sandbox\obj\Debug\sandbox.csproj.GenerateResource.cache
+C:\Users\user\Desktop\corseWork\sandbox\sandbox\obj\Debug\sandbox.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\corseWork\sandbox\sandbox\bin\Debug\sandbox.exe.config
+C:\Users\user\Desktop\corseWork\sandbox\sandbox\bin\Debug\sandbox.exe
+C:\Users\user\Desktop\corseWork\sandbox\sandbox\bin\Debug\sandbox.pdb
+C:\Users\user\Desktop\corseWork\sandbox\sandbox\obj\Debug\sandbox.exe
+C:\Users\user\Desktop\corseWork\sandbox\sandbox\obj\Debug\sandbox.pdb
