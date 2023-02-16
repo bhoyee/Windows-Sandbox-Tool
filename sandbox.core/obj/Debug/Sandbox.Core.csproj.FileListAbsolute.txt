@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\UniClass\sandbox\Sandbox.Core\bin\Debug\Sandbox.Core.dll
+C:\Users\user\Desktop\UniClass\sandbox\Sandbox.Core\bin\Debug\Sandbox.Core.pdb
+C:\Users\user\Desktop\UniClass\sandbox\Sandbox.Core\obj\Debug\Sandbox.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\UniClass\sandbox\Sandbox.Core\obj\Debug\Sandbox.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UniClass\sandbox\Sandbox.Core\obj\Debug\Sandbox.Core.dll
+C:\Users\user\Desktop\UniClass\sandbox\Sandbox.Core\obj\Debug\Sandbox.Core.pdb
